@@ -18,7 +18,7 @@ This guide will help you quickly set up and run the Task Manager project on your
 If you have git installed, run:
 
 ```
-git clone <your-repo-url>
+git clone <https://github.com/build-by-Ayush/Assignment_Task_Manager.git>
 cd <your-project-folder>
 ```
 
@@ -28,7 +28,7 @@ If not, download the zip archive and unzip it.
 
 ## Step 2: Setup Backend (Django REST API)
 
-1. Create and activate a Python virtual environment:
+1. Navigate to Backend directory and Create and activate a Python virtual environment:
 
 - Linux/macOS:
   ```
